@@ -34,6 +34,7 @@ Minha sincera reflexão:
 4. Pressione **Play** para navegar no PC ou faça o **Build & Run** para o Meta Quest.
 
 ---
-**Desenvolvido por: **Eduardo Martins**.
+Desenvolvido por: **Eduardo Martins**.
+
 
 
